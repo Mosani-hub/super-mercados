@@ -1,0 +1,9 @@
+{
+  "name": "Mercado+PLUS",
+  "description": "A smart supermarket price comparison and savings assistant that helps you find the best deals across local stores.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
